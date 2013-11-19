@@ -5,7 +5,7 @@ Plugin Name: WP Smart Pagination
 
 Plugin URI: https://github.com/kharissulistiyo/WP-Smart-Pagination
 
-Description: Smart WordPress post pagination with input number filed.
+Description: Improves site's pagination with extra input number where users can jump to any (x) page.
 
 Author: Kharis Sulistiyono
 
@@ -24,4 +24,4 @@ Author URI: http://kharisulistiyo.github.io
 ### Usage
 ---
 
-From page template file (example: index.php, archive.php, search.php), replace your old-school pagination with this schortcode <code>echo do_shortcode('[wpsp]');</code>
+From page template file (example: index.php, archive.php, search.php), replace your old-school pagination with this schortcode <code>echo do_shortcode('[wpsp]')</code>
